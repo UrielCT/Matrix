@@ -1,0 +1,39 @@
+:root{
+    --negro: #000;
+    --blanco: #fff;
+
+}
+
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*,*:before, *:after{
+    box-sizing: inherit;
+}
+body{
+    font-size: 1.6rem;
+    line-height: 2;
+}
+
+/* Globales*/
+
+
+h1{
+    background-color: red;
+}
+
+
+
+
+/* Utilidades */
+
+.no-margin{
+    margin: 0;
+}
+.no-paddin{
+    padding: 0;
+}
+.centrar-texto{
+    text-align: center;
+}
